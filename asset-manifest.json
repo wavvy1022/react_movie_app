@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/react_movie_app/static/js/main.1b693652.js",
+    "static/js/787.784592d1.chunk.js": "/react_movie_app/static/js/787.784592d1.chunk.js",
+    "index.html": "/react_movie_app/index.html",
+    "main.1b693652.js.map": "/react_movie_app/static/js/main.1b693652.js.map",
+    "787.784592d1.chunk.js.map": "/react_movie_app/static/js/787.784592d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.1b693652.js"
+  ]
+}
